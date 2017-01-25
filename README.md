@@ -30,3 +30,5 @@ View this jekyll theme in action [here](https://jeromelachaud.github.io/freelanc
 
 =========
 For more details, read the [documentation](http://jekyllrb.com/)
+
+For more info with Github pages read this [documentation](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
